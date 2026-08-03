@@ -1,0 +1,256 @@
+EmployeeID,Age,Department,JobRole,MonthlyIncome,MaritalStatus,Education,Gender,YearsAtCompany,Attrition
+1,29,IT,Executive,6118,Single,High School,Male,22,No
+2,23,IT,Manager,5777,Divorced,PhD,Female,3,No
+3,39,Sales,Manager,3976,Married,High School,Male,21,Yes
+4,37,IT,Executive,13817,Single,Masters,Male,17,Yes
+5,36,HR,Specialist,5155,Single,High School,Female,7,No
+6,30,Sales,Associate,7169,Single,PhD,Female,23,No
+7,28,IT,Manager,3958,Married,Masters,Male,27,Yes
+8,56,HR,Specialist,14171,Single,Masters,Female,25,Yes
+9,27,IT,Specialist,10779,Divorced,PhD,Female,28,No
+10,59,Research,Associate,14487,Single,Masters,Female,24,Yes
+11,49,IT,Executive,13307,Married,High School,Male,21,Yes
+12,24,Research,Specialist,5033,Divorced,Bachelors,Female,11,No
+13,23,IT,Specialist,5138,Married,PhD,Male,31,No
+14,27,Finance,Specialist,5545,Divorced,High School,Male,31,No
+15,35,IT,Executive,14101,Divorced,Masters,Male,23,No
+16,36,Sales,Executive,9933,Married,Bachelors,Male,33,Yes
+17,54,Sales,Manager,6530,Married,High School,Female,17,Yes
+18,60,Research,Manager,13871,Married,PhD,Female,5,No
+19,23,Sales,Specialist,11659,Married,Masters,Male,27,Yes
+20,57,HR,Executive,14455,Single,PhD,Male,5,No
+21,34,Finance,Executive,10595,Married,High School,Male,27,No
+22,56,Finance,Associate,11777,Divorced,Bachelors,Male,38,No
+23,48,HR,Specialist,6636,Single,High School,Female,11,No
+24,36,Research,Manager,3647,Married,High School,Male,34,Yes
+25,50,HR,Associate,5180,Single,Masters,Male,18,No
+26,59,HR,Executive,6853,Divorced,PhD,Male,20,Yes
+27,39,Finance,Manager,5727,Divorced,High School,Male,6,Yes
+28,22,IT,Specialist,7912,Divorced,High School,Male,5,No
+29,32,Finance,Executive,4939,Single,Bachelors,Female,20,No
+30,49,Finance,Specialist,6952,Single,Bachelors,Female,18,Yes
+31,43,Sales,Associate,2231,Married,PhD,Female,19,No
+32,39,HR,Associate,13600,Married,PhD,Female,28,No
+33,31,Finance,Associate,10751,Married,Masters,Female,38,No
+34,35,HR,Analyst,4073,Divorced,PhD,Male,27,Yes
+35,43,Sales,Specialist,6494,Married,Bachelors,Female,10,Yes
+36,28,HR,Associate,2745,Single,PhD,Male,28,Yes
+37,27,Finance,Associate,2893,Married,High School,Female,22,No
+38,46,HR,Specialist,11066,Divorced,PhD,Female,28,No
+39,28,Sales,Associate,6786,Married,PhD,Female,2,No
+40,44,IT,Specialist,13426,Divorced,Masters,Female,22,No
+41,44,HR,Executive,4068,Divorced,High School,Male,39,Yes
+42,60,Finance,Specialist,12450,Divorced,Masters,Female,27,Yes
+43,38,Sales,Specialist,14333,Married,Bachelors,Male,17,No
+44,24,Finance,Analyst,10042,Single,PhD,Female,40,Yes
+45,51,Finance,Executive,3680,Married,PhD,Female,3,Yes
+46,56,HR,Analyst,2200,Divorced,Bachelors,Female,4,Yes
+47,29,Finance,Associate,11405,Married,Masters,Male,40,Yes
+48,46,HR,Specialist,6658,Married,High School,Male,25,No
+49,27,IT,Executive,9690,Married,Masters,Female,23,No
+50,57,Finance,Analyst,9843,Divorced,Masters,Female,32,No
+51,40,Finance,Specialist,9216,Divorced,High School,Male,10,Yes
+52,45,Finance,Manager,7582,Married,PhD,Male,1,Yes
+53,58,Research,Analyst,5020,Married,Masters,Female,9,No
+54,34,Research,Executive,2841,Married,Bachelors,Female,38,No
+55,26,Sales,Analyst,6136,Single,High School,Male,28,Yes
+56,24,Research,Analyst,9827,Divorced,PhD,Female,2,No
+57,36,Sales,Analyst,3869,Single,High School,Male,8,No
+58,40,Research,Associate,3070,Divorced,Bachelors,Female,4,No
+59,27,IT,Manager,8565,Married,High School,Female,15,No
+60,36,Sales,Executive,10056,Single,High School,Male,23,No
+61,28,Research,Executive,3213,Married,Masters,Male,23,No
+62,46,IT,Executive,11453,Single,Bachelors,Female,24,Yes
+63,39,Research,Specialist,12312,Married,Bachelors,Male,36,No
+64,51,HR,Executive,13246,Divorced,Bachelors,Female,2,No
+65,45,HR,Executive,2878,Married,High School,Male,38,Yes
+66,32,IT,Manager,4485,Divorced,Bachelors,Male,9,No
+67,45,Finance,Specialist,4444,Married,Bachelors,Male,28,No
+68,44,Finance,Specialist,11221,Married,Bachelors,Male,23,Yes
+69,35,HR,Analyst,6978,Divorced,Masters,Female,23,No
+70,39,HR,Associate,3395,Divorced,Bachelors,Female,28,No
+71,26,Finance,Specialist,6066,Single,High School,Male,4,Yes
+72,60,Sales,Specialist,3940,Married,Masters,Female,36,Yes
+73,32,Finance,Manager,11143,Single,Bachelors,Female,8,No
+74,56,Research,Executive,14524,Single,Bachelors,Female,33,Yes
+75,37,Sales,Specialist,8818,Divorced,Masters,Female,23,No
+76,32,Research,Specialist,11933,Divorced,Bachelors,Female,25,Yes
+77,51,HR,Associate,11766,Married,High School,Female,20,Yes
+78,46,Sales,Manager,14955,Single,High School,Male,17,Yes
+79,39,Research,Associate,12132,Married,Bachelors,Female,15,Yes
+80,57,Research,Specialist,5697,Single,High School,Male,7,Yes
+81,36,Sales,Specialist,14708,Divorced,Masters,Female,1,Yes
+82,42,IT,Manager,10561,Married,Bachelors,Male,11,No
+83,25,Finance,Analyst,8232,Single,Masters,Female,31,No
+84,36,Research,Analyst,9381,Divorced,High School,Female,33,No
+85,24,Finance,Specialist,9253,Single,Bachelors,Female,24,Yes
+86,42,Finance,Specialist,6871,Married,Masters,Male,35,No
+87,47,HR,Associate,11642,Divorced,High School,Female,7,Yes
+88,39,Finance,Associate,9025,Single,Bachelors,Male,16,No
+89,26,Research,Associate,7003,Single,PhD,Male,16,No
+90,35,HR,Executive,11316,Married,High School,Female,28,Yes
+91,58,Sales,Specialist,12174,Married,High School,Female,13,Yes
+92,42,Research,Executive,2986,Married,PhD,Female,39,Yes
+93,35,HR,Analyst,11988,Divorced,PhD,Male,18,No
+94,53,HR,Specialist,14125,Divorced,Masters,Male,31,No
+95,47,Finance,Specialist,3625,Married,High School,Female,12,No
+96,51,Sales,Manager,14496,Divorced,PhD,Female,7,No
+97,31,Research,Specialist,5404,Single,Bachelors,Female,8,Yes
+98,38,Research,Analyst,12248,Married,High School,Male,4,No
+99,30,Finance,Specialist,5457,Divorced,Masters,Male,28,No
+100,37,Sales,Executive,6335,Divorced,PhD,Female,11,No
+101,57,Research,Specialist,12820,Married,High School,Female,28,No
+102,56,Sales,Executive,3330,Married,High School,Male,5,No
+103,38,Research,Associate,4573,Divorced,PhD,Female,20,Yes
+104,59,Finance,Associate,5929,Divorced,PhD,Female,22,Yes
+105,49,IT,Manager,4847,Married,PhD,Male,4,No
+106,59,Research,Specialist,11043,Divorced,High School,Male,35,No
+107,47,HR,Associate,3229,Single,PhD,Female,34,Yes
+108,45,HR,Associate,4564,Divorced,PhD,Female,18,No
+109,36,IT,Manager,2043,Single,High School,Male,19,No
+110,30,Research,Manager,8693,Single,High School,Male,10,Yes
+111,54,HR,Specialist,9381,Divorced,Masters,Male,40,No
+112,53,HR,Executive,13294,Divorced,Bachelors,Male,11,No
+113,27,Research,Specialist,11729,Married,High School,Male,23,No
+114,25,Sales,Executive,9699,Single,Bachelors,Female,32,No
+115,29,Research,Manager,6771,Divorced,Masters,Male,14,No
+116,31,Sales,Analyst,2534,Single,Masters,Male,7,No
+117,32,IT,Specialist,5792,Married,PhD,Female,12,Yes
+118,49,Finance,Analyst,6720,Single,Masters,Male,8,No
+119,60,IT,Executive,13582,Divorced,PhD,Female,15,No
+120,26,Finance,Specialist,6632,Divorced,PhD,Male,31,No
+121,46,HR,Analyst,13517,Single,High School,Male,1,Yes
+122,46,HR,Analyst,9438,Married,High School,Male,23,No
+123,60,HR,Specialist,3166,Single,Bachelors,Male,35,Yes
+124,51,Sales,Analyst,13262,Divorced,PhD,Female,36,No
+125,55,Finance,Specialist,5824,Married,PhD,Male,23,Yes
+126,38,HR,Analyst,6334,Single,Bachelors,Female,29,No
+127,57,Research,Manager,14907,Single,PhD,Female,35,No
+128,22,Finance,Specialist,14963,Married,Masters,Male,8,No
+129,29,Finance,Manager,12240,Single,PhD,Female,39,No
+130,56,Sales,Associate,11663,Married,PhD,Female,5,Yes
+131,39,IT,Manager,12832,Married,PhD,Female,4,Yes
+132,43,Sales,Analyst,5241,Married,High School,Male,19,No
+133,29,HR,Executive,8965,Married,Masters,Male,25,No
+134,40,Research,Manager,3880,Single,PhD,Female,30,Yes
+135,49,Research,Manager,10922,Single,Masters,Female,33,Yes
+136,32,HR,Manager,5683,Divorced,Masters,Male,26,Yes
+137,51,Research,Executive,12610,Married,Masters,Female,26,Yes
+138,22,Sales,Executive,4441,Divorced,Bachelors,Female,36,Yes
+139,38,Sales,Manager,6352,Divorced,PhD,Female,4,Yes
+140,54,HR,Associate,4330,Single,High School,Female,8,Yes
+141,33,Research,Executive,3169,Single,High School,Female,20,Yes
+142,54,Finance,Executive,2977,Single,High School,Female,4,Yes
+143,28,IT,Executive,4718,Single,High School,Male,28,No
+144,41,Finance,Specialist,14986,Divorced,PhD,Male,29,No
+145,54,Sales,Manager,7039,Married,High School,Male,33,No
+146,60,Sales,Associate,11749,Divorced,Masters,Female,22,Yes
+147,34,Sales,Executive,14270,Divorced,Bachelors,Male,8,Yes
+148,31,Sales,Specialist,11325,Single,High School,Female,35,Yes
+149,45,IT,Analyst,6728,Married,Masters,Female,40,Yes
+150,32,HR,Analyst,9195,Divorced,High School,Male,37,No
+151,56,Sales,Executive,4037,Single,PhD,Male,11,No
+152,55,Research,Associate,9679,Single,Masters,Female,8,No
+153,22,IT,Associate,13283,Married,PhD,Male,27,Yes
+154,60,Sales,Manager,6982,Divorced,High School,Male,32,No
+155,42,Research,Executive,13464,Married,Masters,Female,3,No
+156,53,Sales,Analyst,8594,Married,Masters,Female,7,No
+157,23,HR,Manager,6460,Married,Masters,Male,33,Yes
+158,29,IT,Associate,10199,Divorced,High School,Female,9,Yes
+159,45,HR,Manager,10847,Single,Bachelors,Male,19,Yes
+160,41,IT,Analyst,10090,Married,Bachelors,Male,10,Yes
+161,37,Sales,Associate,9172,Married,PhD,Female,10,Yes
+162,25,Sales,Specialist,3317,Divorced,Bachelors,Female,20,No
+163,37,IT,Specialist,11798,Divorced,High School,Male,14,Yes
+164,58,Research,Executive,2653,Single,Masters,Female,22,Yes
+165,27,Research,Manager,9078,Single,Masters,Male,33,No
+166,27,Sales,Associate,14034,Married,High School,Female,18,No
+167,53,Sales,Executive,7280,Married,Masters,Female,5,Yes
+168,26,HR,Manager,11891,Divorced,Bachelors,Male,16,No
+169,56,Sales,Analyst,6102,Married,PhD,Female,12,Yes
+170,30,IT,Associate,2423,Divorced,High School,Male,40,Yes
+171,30,Research,Manager,3496,Married,Masters,Female,35,No
+172,52,Research,Associate,5750,Divorced,High School,Male,17,Yes
+173,57,HR,Manager,13047,Married,Bachelors,Male,8,No
+174,32,Research,Analyst,11424,Married,Masters,Female,40,No
+175,38,Research,Associate,11619,Married,Masters,Male,19,No
+176,55,Finance,Specialist,2339,Single,Masters,Female,39,No
+177,60,IT,Analyst,14529,Married,Masters,Male,34,Yes
+178,49,Finance,Manager,13014,Married,High School,Male,5,No
+179,35,Research,Associate,6415,Single,Bachelors,Male,32,No
+180,56,HR,Analyst,11441,Single,Bachelors,Female,10,Yes
+181,34,HR,Manager,2659,Married,PhD,Female,37,Yes
+182,41,Research,Specialist,14502,Divorced,High School,Male,37,No
+183,47,Sales,Specialist,14390,Married,Bachelors,Female,9,Yes
+184,45,Finance,Manager,4870,Divorced,High School,Female,10,No
+185,50,Research,Specialist,9708,Married,High School,Male,39,No
+186,55,HR,Analyst,10502,Divorced,Bachelors,Male,38,Yes
+187,50,HR,Specialist,12674,Married,PhD,Male,21,Yes
+188,29,Finance,Executive,9245,Single,PhD,Female,36,No
+189,37,IT,Specialist,6557,Divorced,PhD,Male,2,No
+190,36,Research,Executive,4973,Married,Masters,Male,1,Yes
+191,26,Research,Associate,11590,Married,Bachelors,Female,5,Yes
+192,43,IT,Analyst,9141,Single,Masters,Male,2,No
+193,23,Finance,Associate,12400,Divorced,Masters,Female,36,No
+194,59,Finance,Associate,10056,Divorced,Masters,Male,16,No
+195,57,HR,Specialist,3494,Divorced,High School,Female,13,Yes
+196,36,IT,Specialist,9700,Single,High School,Male,36,No
+197,59,Finance,Specialist,7700,Divorced,Bachelors,Male,26,Yes
+198,36,Sales,Associate,8690,Divorced,Bachelors,Male,39,Yes
+199,22,Research,Analyst,7460,Married,High School,Female,40,Yes
+200,26,HR,Analyst,7260,Married,High School,Female,1,No
+201,25,IT,Executive,12979,Single,Masters,Male,31,No
+202,36,HR,Manager,3713,Divorced,PhD,Male,40,Yes
+203,26,Finance,Analyst,4634,Married,PhD,Female,34,Yes
+204,24,Finance,Specialist,7403,Single,PhD,Male,18,No
+205,43,Sales,Executive,8744,Divorced,PhD,Male,19,No
+206,26,Research,Specialist,13365,Single,PhD,Male,30,Yes
+207,54,IT,Associate,10117,Divorced,Masters,Female,15,No
+208,37,HR,Associate,6722,Married,Bachelors,Female,25,No
+209,39,Research,Specialist,12855,Divorced,High School,Male,19,No
+210,53,Finance,Analyst,8561,Divorced,Masters,Female,29,No
+211,35,Research,Manager,14460,Divorced,PhD,Male,4,Yes
+212,56,HR,Specialist,11012,Divorced,High School,Female,3,No
+213,30,Research,Analyst,2601,Single,Masters,Male,10,No
+214,58,Finance,Executive,9451,Divorced,PhD,Male,28,Yes
+215,58,Research,Specialist,3442,Single,Masters,Female,26,Yes
+216,52,IT,Executive,7153,Divorced,High School,Male,30,Yes
+217,37,Research,Analyst,6135,Divorced,Bachelors,Male,29,No
+218,52,IT,Analyst,7296,Single,PhD,Female,13,No
+219,48,Research,Analyst,3899,Married,High School,Female,21,Yes
+220,34,Finance,Analyst,14657,Married,High School,Male,38,No
+221,28,Sales,Associate,8622,Single,Bachelors,Female,9,No
+222,28,Sales,Analyst,10431,Divorced,Masters,Female,20,Yes
+223,49,IT,Associate,2018,Married,Bachelors,Female,20,No
+224,44,IT,Manager,12775,Divorced,Bachelors,Male,22,No
+225,49,Sales,Associate,10889,Single,Masters,Female,25,Yes
+226,48,Finance,Executive,9569,Single,Masters,Male,8,Yes
+227,51,Finance,Manager,8770,Married,Masters,Female,23,Yes
+228,25,Research,Executive,2888,Married,High School,Male,32,No
+229,28,IT,Specialist,5073,Divorced,High School,Male,35,Yes
+230,25,Finance,Specialist,10494,Married,PhD,Female,6,No
+231,47,HR,Associate,7927,Single,PhD,Male,20,No
+232,43,Research,Executive,12201,Single,Bachelors,Male,15,No
+233,28,Research,Specialist,14393,Single,Bachelors,Female,29,No
+234,37,Sales,Specialist,10167,Divorced,PhD,Female,7,Yes
+235,34,IT,Specialist,12246,Married,Bachelors,Male,17,Yes
+236,34,Finance,Manager,9242,Divorced,Masters,Female,28,Yes
+237,56,Finance,Manager,14451,Divorced,High School,Female,15,No
+238,50,Research,Analyst,2845,Married,PhD,Male,9,No
+239,30,IT,Executive,5335,Single,High School,Male,6,Yes
+240,49,IT,Specialist,6375,Married,PhD,Male,3,Yes
+241,33,IT,Executive,10998,Married,High School,Female,18,Yes
+242,39,Sales,Analyst,4146,Married,PhD,Male,24,Yes
+243,51,Finance,Associate,6719,Divorced,High School,Female,39,Yes
+244,37,IT,Analyst,9178,Married,Masters,Male,26,Yes
+245,26,Sales,Specialist,13440,Single,PhD,Male,15,No
+246,50,HR,Associate,9941,Married,PhD,Male,10,No
+247,57,Research,Associate,3989,Single,PhD,Male,20,Yes
+248,28,Finance,Analyst,2472,Single,Masters,Female,36,Yes
+249,25,Finance,Specialist,12322,Single,High School,Female,20,No
+250,56,Research,Associate,11975,Divorced,PhD,Female,12,Yes
+251,22,HR,Analyst,5920,Divorced,High School,Female,10,No
+252,27,Sales,Analyst,13629,Divorced,Masters,Female,31,Yes
+253,37,Research,Specialist,4594,Married,Bachelors,Male,32,No
+254,32,Sales,Analyst,7091,Divorced,PhD,Male,29,Yes
+255,48,Sales,Analyst,11024,Married,Masters,Female,31,No
